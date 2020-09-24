@@ -2,7 +2,7 @@
 
 Developed with Unreal Engine 4
 
-#Usage
+#Usage  
 *Change "Amount" value for HP Bar from second/Material/BarInstance  
 *Change "Amount" value for HP Bar from second/Material/StaminaInstance  
 *Change "Amount" value for HP Bar from second/Material/SkillMat_Inst  
